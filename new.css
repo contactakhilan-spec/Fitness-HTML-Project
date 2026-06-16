@@ -1,0 +1,70 @@
+body {
+  background: #79B473;
+}
+p {
+  color: white;
+  font: monospace;
+}
+h1 {
+  font-weight: bold;
+}
+.title{
+  text-align: center;
+  font-family: georgia;
+  background-color: #79B473;
+  color: white
+}
+.phrase{
+  text-align: center;
+  font-family: monospace;
+  background-color: #79B473;
+  color: white
+}
+.overview{
+  font-family: monospace;
+  color: white; 
+}
+.about_bulking{
+    font-family: monospace;
+  color: white;
+}
+.what_is_bulking{
+    font-family: monospace;
+    color: white;
+}
+.types{
+    font-family: monospace;
+    color: white;
+}
+.calories{
+    font-family: monospace;
+    color: white;
+}
+.macros{
+    font-family: monospace;
+    color: white;
+}
+.train{
+    font-family: monospace;
+    color: white;
+}
+.recovery{
+    font-family: monospace;
+    color: white;
+}
+.expect{
+    font-family: monospace;
+    color: white;
+}
+.time{
+    font-family: monospace;
+    color: white;
+}
+.tips{
+    font-family: monospace;
+    color: white;
+}
+.link{
+    font-family: monospace;
+    color: white;
+}

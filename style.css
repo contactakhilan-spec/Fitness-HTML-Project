@@ -1,0 +1,104 @@
+body {
+  background: #30BCED;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
+.bulking_page{
+  background: dimgray;
+}
+.title{
+  text-align: center;
+  font-family: georgia;
+  color: black
+  
+}
+.phrase{
+  text-align: center;
+  font-family: monospace;
+  color: black
+}
+.about_us{
+  text-align: center;
+  font-family: monospace;
+  color: black;
+}
+.about_usInfo{
+  font-family: monospace;
+  color: black;
+ }
+.bulking{
+  font-family: monospace;
+  color: black;
+}
+.bulking_info{
+  font-family: monospace;
+  color: black;
+}
+.cutting{
+  font-family: monospace;
+  color: black;
+}
+.cutting_info{
+  font-family: monospace;
+  color: black;
+}
+.feedback{
+  font-family: monospace;
+  color: black;
+}
+.info{
+  font-family: monospace;
+  color: black;
+}
+.bulking_title{
+  text-align: center;
+  font-family: georgia;
+  background-color: dimgray;
+  color: black;
+}
+.button{
+    background-color: rgb(255,255,255);
+    border: .5px solid;
+    border-radius: 10px;
+    color: #fff;
+    padding: 8px;
+    font-family: monospace;
+    color: black;
+}
+.about_us_main{
+    text-align: center;
+    border: 5px solid;
+    border-radius: 10px;
+    border-color: #333745;
+    fill: #E1DEE3;
+    background-color: white;
+    
+}
+.bulking_main{
+    text-align: center;
+    border: 5px solid;
+    border-radius: 10px;
+    border-color: #333745;
+    margin: 10px;
+    background-color: white;
+}
+.cutting_main{
+    text-align: center;
+    border: 5px solid;
+    border-radius: 10px;
+    border-color: #333745;
+    margin: 10px;
+    background-color: white;
+}
+.feedback_main{
+    text-align: center;
+    border: 5px solid;
+    border-radius: 10px;
+    border-color: #333745;
+    margin: 10px;
+    background-color: white;
+}
