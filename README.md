@@ -2,7 +2,7 @@
 A front-end web design project engineered to build a clean, modern, and fully responsive user interface focused on health tracking, community wellness, and workout motivation.
 
 ## 🔗 Live Interactive Platform
-👉 **Launch the Live Website:** [Click Here to View the Live Site](https://contactakhilan-spec.github.io/Fitness-HTML-Project/)
+👉 **Launch the Live Website:** https://contactakhilan-spec.github.io/Fitness-HTML-Project/ 
 
 ---
 
