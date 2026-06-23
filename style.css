@@ -1,0 +1,131 @@
+body {
+  background: #30BCED;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
+.bulking_page{
+  background: dimgray;
+}
+.title{
+  text-align: center;
+  font-family: georgia;
+  color: black
+  
+}
+.phrase{
+  text-align: center;
+  font-family: monospace;
+  color: black
+}
+.about_us{
+  text-align: center;
+  font-family: monospace;
+  color: black;
+}
+.about_usInfo{
+  font-family: monospace;
+  color: black;
+ }
+.bulking{
+  font-family: monospace;
+  color: black;
+}
+.bulking_info{
+  font-family: monospace;
+  color: black;
+}
+.cutting{
+  font-family: monospace;
+  color: black;
+}
+.cutting_info{
+  font-family: monospace;
+  color: black;
+}
+.feedback{
+  font-family: monospace;
+  color: black;
+}
+.info{
+  font-family: monospace;
+  color: black;
+}
+.bulking_title{
+  text-align: center;
+  font-family: georgia;
+  background-color: dimgray;
+  color: black;
+}
+.button{
+    background-color: rgb(255,255,255);
+    border: .5px solid;
+    border-radius: 10px;
+    color: #fff;
+    padding: 8px;
+    font-family: monospace;
+    color: black;
+}
+.about_us_main{
+    text-align: center;
+    border: 2px solid #000000;
+    border-radius: 8px;
+    border-color: #333745;
+    margin: 10px;
+    fill: #E1DEE3;
+    background-color: white;
+    padding: 24px;
+    margin-bottom: 20px;
+    
+}
+.bulking_main{
+    text-align: center;
+    border: 2px solid #000000;
+    border-radius: 8px;
+    border-color: #333745;
+    margin: 10px;
+    background-color: white;
+    padding: 24px;
+    margin-bottom: 20px
+}
+.cutting_main{
+    text-align: center;
+    border: 2px solid #000000;
+    border-radius: 8px;
+    border-color: #333745;
+    margin: 10px;
+    background-color: white;
+    padding: 24px;
+    margin-bottom: 20px
+}
+.feedback_main{
+    text-align: center;
+    border: 2px solid #000000;
+    border-radius: 8px;
+    border-color: #333745;
+    margin: 10px;
+    background-color: white;
+    padding: 24px;
+    margin-bottom: 20px
+}
+.content-wrapper {
+  max-width: 800px; /* Limits horizontal stretch */
+  margin: 0 auto;   /* Centers the container on the screen */
+  padding: 0 20px;  /* Prevents text from touching phone screen edges */
+}
+.cta-button {
+  display: inline-block;
+  background-color: #2e7d32; /* Primary action color */
+  color: white;
+  padding: 12px 24px;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: bold;
+  transition: background-color 0.2s ease;
+}
+.cta-button:hover {
+  background-color: #1b5e20; /* Darkens on mouse hover */
+}

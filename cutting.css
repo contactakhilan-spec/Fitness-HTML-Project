@@ -1,0 +1,21 @@
+body {
+   background: rgb(34,139,34);
+   font-family: monospace;
+   color: white;
+}
+p {
+   font-family: monospace;
+   color: white;
+}
+.title{
+  text-align: center;
+  font-family: georgia;
+  background-color: rgb(34,139,34);
+  color: white;
+}
+.phrase{
+  text-align: center;
+  font-family: monospace;
+  background-color: rgb(34,139,34);
+  color: white;
+}
